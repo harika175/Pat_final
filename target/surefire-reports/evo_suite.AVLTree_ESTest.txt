@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: evo_suite.AVLTree_ESTest
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.098 s <<< FAILURE! - in evo_suite.AVLTree_ESTest
+test11(evo_suite.AVLTree_ESTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.StackOverflowError
+
